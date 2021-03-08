@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(red,yellow);
+}
+
+h1{
+    text-shadow: 2px 2px #f04882;
+    font-size: :40px;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border:solid;
+    
+}
+
+#h2a{
+    text-decoration: overline underline;
+}
